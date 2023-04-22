@@ -17,6 +17,21 @@ The dashboard developed for this project includes several visualizations that he
 
 ![image](https://user-images.githubusercontent.com/64235016/233759714-549ed58d-7d64-4189-92d9-636f73eee2ff.png)
 
+The repository has the following structure:
+
+root /
+
+├── README.md
+
+├── source/
+
+│   └── banking_dataset.csv
+
+└── customer_churn.pbix
+
+    The README.md file contains information about the project.
+    The source folder contains the original CSV file used for this project.
+    The customer_churn.pbix file is the Power BI file containing the dashboard and data model for this project.
 
 # Conclusion
 
