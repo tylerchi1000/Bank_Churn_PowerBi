@@ -23,11 +23,11 @@ root /
 
 ├── README.md
 
-├── source/
+├──Data_source/
 
 │   └── banking_dataset.csv
 
-└── customer_churn.pbix
+└── Bank_Churn_Report_.pbix
 
     The README.md file contains information about the project.
     The source folder contains the original CSV file used for this project.
